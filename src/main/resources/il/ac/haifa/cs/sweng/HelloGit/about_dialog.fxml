@@ -17,7 +17,30 @@
 		<font>
 			<Font size="31.0" />
 		</font>
+
+	</Label>
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="kamal  madny and Mohamed Awad Team"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
 	</Label>
 
+
+	<!-- names label -->
+	<Label alignment="CENTER"
+		   text="Mohamed awad and Kamak Madany Team"
+		   textAlignment="CENTER">
+		<font>
+			<Font size="30.0" />
+		</font>
+		<style>
+			style="-fx-text-fill: #0000cc;"
+
+		</style>
+	</Label>
 </VBox>
 
