@@ -21,11 +21,11 @@
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
 		   text="Amal Giryes :)"
-		   textAlignment="CENTER"
+		   textAlignment="LEFT"
 		   textFill="yellowgreen">
 
 		<font>
-			<Font size="25.0" />
+			<Font size="15.0" />
 		</font>
 	</Label>
 
