@@ -18,6 +18,21 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+	<Label alignment="CENTER"
+		maxWidth="2.7976931348623157E308"
+		text="Yosef Asadi">
+		<font>
+			<Font size="30"/>
+		</font>
+	</Label>
+	<Label
+		alignment="CENTER"
+		maxWidth="2.7976931348623157E308"
+		text="Renata Haiek">
+		<font>
+			<Font size="30"/>
+		</font>
+	</Label>
 
 </VBox>
 
