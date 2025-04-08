@@ -20,12 +20,12 @@
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Amal Giryes and Afaf Garra :)"
-		   textAlignment="CENTER"
-		   textFill="yellowgreen">
+		   text="Amal Giryes :)"
+		   textAlignment="LEFT"
+		   textFill="deepskyblue">
 
 		<font>
-			<Font size="25.0" />
+			<Font size="15.0" />
 		</font>
 	</Label>
 
