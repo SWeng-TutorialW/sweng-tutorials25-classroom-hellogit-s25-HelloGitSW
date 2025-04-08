@@ -19,5 +19,34 @@
 		</font>
 	</Label>
 
+	<Label alignment="BASELINE_LEFT"
+		   text="Micheal  And"
+		   textAlignment="CENTER" >
+	<font>
+		<Font size="31.0" />
+	</font>
+
+
+	</Label>
+	<Label alignment="BASELINE_LEFT"
+		   text="Reema And"
+		   textAlignment="CENTER" >
+		<font>
+			<Font size="31.0" />
+		</font>
+
+
+	</Label>
+
+	<Label alignment="BASELINE_LEFT"
+		   text="Ginwa"
+		   textAlignment="CENTER" >
+		<font>
+			<Font size="31.0" />
+		</font>
+
+
+	</Label>
+
 </VBox>
 
