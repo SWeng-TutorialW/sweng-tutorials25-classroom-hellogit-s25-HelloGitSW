@@ -19,5 +19,15 @@
 		</font>
 	</Label>
 
+	<Label alignment="BASELINE_LEFT"
+		   text="Micheal  And"
+		   textAlignment="CENTER" >
+	<font>
+		<Font size="31.0" />
+	</font>
+
+
+	</Label>
+
 </VBox>
 
