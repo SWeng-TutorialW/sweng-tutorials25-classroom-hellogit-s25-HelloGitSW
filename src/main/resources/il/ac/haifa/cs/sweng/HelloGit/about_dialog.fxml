@@ -11,7 +11,17 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi there , We are using Git ! ! !"
+		   text="I added my name Basel"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
+
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="I added my name Saleh"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
