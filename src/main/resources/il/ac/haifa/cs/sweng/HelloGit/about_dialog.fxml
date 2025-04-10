@@ -18,6 +18,19 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+	<Label text="Written by: Karam Mahameed- 213029143"
+		   textAlignment="CENTER">
+		<font>
+			<Font size="24.0" />
+		</font>
+	</Label>
+	<Label text="Written by: Ahmad Wattad- 213622798"
+		   textAlignment="CENTER">
+		<font>
+			<Font size="24.0" />
+		</font>
+	</Label>
+
 
 </VBox>
 
