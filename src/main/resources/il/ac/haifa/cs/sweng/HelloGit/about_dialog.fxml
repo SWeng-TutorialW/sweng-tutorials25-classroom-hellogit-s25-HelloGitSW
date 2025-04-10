@@ -20,7 +20,7 @@
 	</Label>
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="team HB -hoda and Boshra"
+		   text="team HB - hoda and Boshra"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
