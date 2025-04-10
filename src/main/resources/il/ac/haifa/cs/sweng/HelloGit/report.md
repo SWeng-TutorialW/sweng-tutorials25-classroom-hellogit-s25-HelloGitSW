@@ -5,4 +5,4 @@
 
 ## About Window
 
-![Screenshot of About](src\about_screenshot.png)
+![Screenshot of About](about_screenshot.png)
