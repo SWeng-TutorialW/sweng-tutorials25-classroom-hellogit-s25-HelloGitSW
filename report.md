@@ -5,4 +5,4 @@
 
 ## About Window
 
-![Screenshot of About](C:\Users\girye\IdeaProjects\hellogit-s25-a-e-team\src\main\resources\il\ac\haifa\cs\sweng\HelloGit\about_screenshot.png)
+![Screenshot of About](src\about_screenshot.png)
