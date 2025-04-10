@@ -35,7 +35,7 @@
        textFill="#00BFFF" >
 
     <font>
-        <Font size="24.0" family="Helvetica Neue" style="Italic"/>
+        <Font size="15.0" />
     </font>
 </Label>
 
