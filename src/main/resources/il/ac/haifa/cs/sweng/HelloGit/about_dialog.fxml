@@ -18,6 +18,29 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Amal Giryes :)"
+		   textAlignment="LEFT"
+		   textFill="deepskyblue">
+
+		<font>
+			<Font size="15.0" />
+		</font>
+	</Label>
+	<Label alignment="CENTER"
+       maxWidth="2.7976931348623157E308"
+       text="Afaf Gharra :)"
+       textAlignment="CENTER"
+       textFill="#00BFFF" >
+
+    <font>
+        <Font size="15.0" />
+    </font>
+</Label>
+
+
+
 
 </VBox>
 
