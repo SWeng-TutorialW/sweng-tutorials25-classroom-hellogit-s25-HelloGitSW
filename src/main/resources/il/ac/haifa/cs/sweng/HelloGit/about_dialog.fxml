@@ -18,6 +18,15 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+	<Label alignment="CENTER"
+		   text="Taaarekk"
+		   textAlignment="CENTER">
+	<font>
+		<Font size="31.0" />
+	</font>
+	</Label>
+	<Label>Faridah  </Label>
+
 
 </VBox>
 
