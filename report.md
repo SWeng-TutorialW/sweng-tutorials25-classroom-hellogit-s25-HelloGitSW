@@ -1,0 +1,1 @@
+![Screenshot](src/main/resources/il/ac/haifa/cs/sweng/HelloGit/Screenshot.jpg)
