@@ -18,6 +18,11 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-
+	<Label text="Hi there , We are using Git ! ! !">Tarek
+		<font>
+			<Font size="31.0" />
+		</font>
+	</Label>
+<Label>FaridaLas</Label>
 </VBox>
 
