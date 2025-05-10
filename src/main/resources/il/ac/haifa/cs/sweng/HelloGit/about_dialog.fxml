@@ -4,14 +4,10 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.text.Font?>
 
-
 <VBox xmlns:fx="http://javafx.com/fxml/1">
-	<!-- TODO Add Nodes -->
-	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
-
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi there , We are using Git ! ! !"
+		   text="Hi there, We are using Git!!!"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
@@ -19,5 +15,18 @@
 		</font>
 	</Label>
 
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Student: Naaman Kopty, ID: 328425632; Student: Celine Michael, ID: 327946109"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="20.0" />
+		</font>
+	</Label>
 </VBox>
+
+
+
+
 
