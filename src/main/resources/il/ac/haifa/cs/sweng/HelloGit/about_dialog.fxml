@@ -18,6 +18,14 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+	<Label text="Developed by Amir Ajamia"
+		   alignment="CENTER"
+		   textAlignment="CENTER"
+		   maxWidth="Infinity">
+		<font>
+			<Font size="16"/>
+		</font>
+	</Label>
 
 </VBox>
 
